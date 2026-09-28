@@ -1,5 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL "https://www.linkedin.com/in/keerthivasan-k-0206kk/")
-[![Email](https://img.shields.io/badge/Email-1d1d1d?style=for-the-badge)](mailto:YOUR-EMAIL "keerthivasan487@gmail.com")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthivasan-k-0206kk/ "LinkedIn")
+[![Email](https://img.shields.io/badge/Email-1d1d1d?style=for-the-badge)](mailto:keerthivasan487@gmail.com "Email")
+
 
 > [!IMPORTANT]
 > Hey, I'm **Keerthivasan**.
